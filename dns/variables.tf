@@ -1,0 +1,1 @@
+variable "hosted_zone" {}
